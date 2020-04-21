@@ -22,7 +22,7 @@
     "babel-minify": "^0.5.1",
     "bowser": "^2.4.0",
     "browserify": "^16.1.0",
-    "coveralls": "^3.0.9",
+    "coveralls": "^3.0.12",
     "nyc": "^14.1.1",
     "prettier-bytes": "^1.0.3",
     "simple-get": "^3.0.1",
